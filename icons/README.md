@@ -98,3 +98,9 @@ https://raw.githubusercontent.com/promatcloud/Branding/master/icons/org/promat.c
 
 <img src="https://raw.githubusercontent.com/promatcloud/Branding/master/icons/org/promat.cloud.white.png"  
 alt="promat.cloud.white.png" width=250/>
+
+### fondomail.png
+https://raw.githubusercontent.com/promatcloud/Branding/master/icons/org/fondomail.png
+
+<img src="https://raw.githubusercontent.com/promatcloud/Branding/master/icons/org/fondomail.png"  
+alt="fondomail.png" width=250/>
